@@ -48,8 +48,8 @@ Unlike RGB, the **LAB color space** separates the luminance (lightness) from col
 
 | Original Image | Segmented Output |
 |----------------|------------------|
-| ![](input/sample1.jpg) | ![](output/output_sample1.jpg) |
-| ![](input/sample2.jpg) | ![](output/output_sample2.jpg) |
+| ![](input/img4.jpg) | ![](output/output_sample1.jpg) |
+| ![](input/img5.jpg) | ![](output/output_sample2.jpg) |
 
 > *(Replace the image paths with your actual sample images from the repo)*
 
